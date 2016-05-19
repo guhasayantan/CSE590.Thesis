@@ -22,7 +22,7 @@ The code for the follwing:
 9. Convolutional Neural Network
 
 
-The above modules are developed using various types of languages as follows:
+The above modules are developed using various types of languages as follows
 
 1. Python
 
